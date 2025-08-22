@@ -1,2 +1,4 @@
-# dados-ifsp-semestre6
-Códigos produzidos em Python referente à matéria de Ciência de Dados.
+# Ciência de Dados
+Códigos produzidos em Python durante o sexto semestre de Análise e Desenvolvimento de Sistemas (IFSP), referentes à matéria de Ciência de Dados.
+
+## [Função Símbolo](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/funcao_simbolo.py) - 21/08/2025
