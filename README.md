@@ -12,3 +12,6 @@ Códigos produzidos em Python durante o sexto semestre de Análise e Desenvolvim
 
 ## [Gráficos](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/graficos.py) - 16/09/2025
 [Link Colab](https://colab.research.google.com/drive/1vWx_SXYjE22upZYx8Q1HtBcHKjukY7vj?usp=drive_link)
+
+## [Qualidade de Dados](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/qualidade_de_dados.py) - 23/09/2025
+[Link Colab](https://colab.research.google.com/drive/1rKEEqtmje6ptrYgy6DZsTwXJOaTejW06?usp=sharing)
