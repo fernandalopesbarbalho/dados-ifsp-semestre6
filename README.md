@@ -14,3 +14,5 @@ Códigos produzidos em Python durante o sexto semestre de Análise e Desenvolvim
 ## [Transformação de Dados](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/transformacao_de_dados.py) - 30/09/2025
 
 ## [Engenharia de Características](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/engenharia_de_caracteristicas.py) - 07/10/2025
+
+## [Amostras de Dados para Experimentos](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/amostras_de_dados_para_experimentos.py) - 19/10/2025
