@@ -20,3 +20,5 @@ Códigos produzidos em Python durante o sexto semestre de Análise e Desenvolvim
 ## [Modelagem de Dados](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/modelagem_de_dados.py) - 28/10/2025
 
 ## [Modelagem de Dados 2](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/modelagem_de_dados2.py) - 04/11/2025
+
+## [Avaliação e Seleção de Modelos](https://github.com/fernandalopesbarbalho/dados-ifsp-semestre6/blob/main/avaliacao_e_selecao_de_modelos.py) - 10/11/2025
